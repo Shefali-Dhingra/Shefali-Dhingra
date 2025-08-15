@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shefali-Dhingra
-- 👀 I’m interested in working on projects and learn more about Machine Learning and Data Science
-- 🌱 I’m currently a student persuing Computer Science and Software Engineering 
-- 💞️ I’m looking to collaborate on innovative and brainstroming projects
+- 👀 I’m interested in working on projects and learn more about AI and Business Analytics. You can find some interesting projects in these domains in my Repo
+- 🌱 I’m currently a student persuing PGDM in Big Data Analytics and Marketing. I also have done my BTech. in Computer Science and Software Engineering.
+- 💞️ I have worked with Brillio as a SDE for 15+ months. I have also done various internships in diverse domains.
 - 📫 You can reach me at @shefalidhingra060600@gmail.com
 
 <!---
